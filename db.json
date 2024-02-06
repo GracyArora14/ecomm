@@ -1,6 +1,10 @@
 {
-    "seller":[
-        
-    ]
-
+  "seller": [
+    {
+      "id": "4b8c",
+      "name": "Gracy Arora",
+      "email": "gracyarora2003@gmail.com",
+      "password": "abc@123"
+    }
+  ]
 }
