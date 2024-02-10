@@ -1,3 +1,4 @@
+import { SellerService } from './../service/seller.service';
 import { Component , OnInit } from '@angular/core';
 
 @Component({
@@ -6,10 +7,12 @@ import { Component , OnInit } from '@angular/core';
   styleUrl: './seller-auth.component.css'
 })
 export class SellerAuthComponent implements OnInit{
-  constructor() {}
+  constructor(private seller:SellerService) {}
+
     ngOnInit(): void{}
     signUp(data:object):void{
       console.warn(data)
+      this.seller.userSignUp();
 
     }
   
