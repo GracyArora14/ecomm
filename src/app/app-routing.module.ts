@@ -10,16 +10,17 @@ import { authGuard } from './auth.guard';
 
 const routes: Routes = [
  {
+  component:HomeComponent,
   path:'',
-  component:HomeComponent
- },
+   },
  {
+  component:SellerAuthComponent,
   path:'seller-auth',
-  component:SellerAuthComponent
+  
  },
  {
-  path:'seller-home',
   component:SellerHomeComponent,
+  path:'seller-home',
   canActivate:[authGuard]
   
  }
