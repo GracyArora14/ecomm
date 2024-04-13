@@ -6,12 +6,38 @@
       "email": "gracyarora2003@gmail.com",
       "password": "abc@123"
     },
-  
     {
       "id": "e955",
       "name": "Gracy Arora",
       "password": "gracy",
       "email": "gracyarora14@gmail.com"
+    },
+    {
+      "id": "be80",
+      "name": "krishna",
+      "email": "kj6785@srmist.edu.in",
+      "password": "krishna"
+    }
+  ],
+  "products": [
+    
+    {
+      "id": "d72d",
+      "name": "iphone14",
+      "price": "555555",
+      "category": "mobile",
+      "color": "black",
+      "description": "good\n",
+      "image": "https://cellbuddy.in/buddy/wp-content/uploads/2022/09/14-Purple.png"
+    },
+    {
+      "id": "2602",
+      "name": "m40",
+      "price": "555555",
+      "category": "mobile",
+      "color": "black",
+      "description": "good\n",
+      "image": "https://cellbuddy.in/buddy/wp-content/uploads/2022/09/14-Purple.png"
     }
   ]
 }
