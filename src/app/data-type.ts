@@ -11,6 +11,7 @@ export interface login{
     
 }
 export interface product{
+   
     name:string,
     price:number,
     category:string,

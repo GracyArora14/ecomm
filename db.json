@@ -20,7 +20,6 @@
     }
   ],
   "products": [
-    
     {
       "id": "d72d",
       "name": "iphone14",
@@ -31,13 +30,13 @@
       "image": "https://cellbuddy.in/buddy/wp-content/uploads/2022/09/14-Purple.png"
     },
     {
-      "id": "2602",
-      "name": "m40",
-      "price": "555555",
-      "category": "mobile",
-      "color": "black",
-      "description": "good\n",
-      "image": "https://cellbuddy.in/buddy/wp-content/uploads/2022/09/14-Purple.png"
+      "id": "a848",
+      "name": "pavilion",
+      "price": "200000",
+      "category": "Laptop",
+      "color": "grey",
+      "description": "crazy product",
+      "image": "https://m.media-amazon.com/images/I/71DozMyPCBL._SL1500_.jpg"
     }
   ]
 }
