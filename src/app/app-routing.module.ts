@@ -35,7 +35,7 @@ const routes: Routes = [
  },
  {
   component:SellerUpdateProductComponent,
-  path:'seller-update-product',
+  path:'seller-update-product/:id',
   canActivate:[authGuard]
   
  },
