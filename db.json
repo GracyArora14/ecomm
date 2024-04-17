@@ -21,13 +21,13 @@
   ],
   "products": [
     {
-      "id": "d72d",
       "name": "iphone14",
-      "price": "555555",
-      "category": "mobile",
+      "price": "50000",
+      "category": "mobil",
       "color": "black",
       "description": "good\n",
-      "image": "https://cellbuddy.in/buddy/wp-content/uploads/2022/09/14-Purple.png"
+      "image": "https://cellbuddy.in/buddy/wp-content/uploads/2022/09/14-Purple.png",
+      "id": "d72d"
     },
     {
       "id": "a848",
