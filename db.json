@@ -37,6 +37,24 @@
       "color": "grey",
       "description": "crazy product",
       "image": "https://m.media-amazon.com/images/I/71DozMyPCBL._SL1500_.jpg"
+    },
+    {
+      "id": "e2c0",
+      "name": "Levis jeans",
+      "price": "500",
+      "category": "Clothes",
+      "color": "blue",
+      "description": "comfortable jeans",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221114/JkCX/63725cbbf997ddfdbd72cf22/-473Wx593H-443000851-ltblue-MODEL.jpg"
+    },
+    {
+      "name": "earphones",
+      "price": "2000",
+      "category": "speakers",
+      "color": "blue",
+      "description": "good sound",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhqO_W7V8jpXF1ClQQLvgLA8zzZ1yZjazs3NaMmdQHiQ&s",
+      "id": "9b02"
     }
   ]
 }
